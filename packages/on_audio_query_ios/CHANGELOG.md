@@ -1,3 +1,7 @@
+## 1.2.0
+
+- version up.
+
 ## 1.1.0
 
 - See more [on_audio_query - CHANGELOG](https://github.com/LucJosin/on_audio_query/blob/main/on_audio_query/CHANGELOG.md).
