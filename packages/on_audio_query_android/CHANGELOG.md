@@ -1,4 +1,4 @@
-## 1.2.0
+## 1.1.1
 
 - Fixed some issues. Namespaces and java version.
 

@@ -24,10 +24,10 @@ void main() {
 }
 
 class Songs extends StatefulWidget {
-  const Songs({Key? key}) : super(key: key);
+  const Songs({super.key});
 
   @override
-  _SongsState createState() => _SongsState();
+  State<Songs> createState() => _SongsState();
 }
 
 class _SongsState extends State<Songs> {
